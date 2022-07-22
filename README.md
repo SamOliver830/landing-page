@@ -1,0 +1,1 @@
+Making a basic landing page from scratch, only using a reference.
